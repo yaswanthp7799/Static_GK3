@@ -2,8 +2,8 @@
 
 [
     {
-      "question": "What is the capital of France?",
-      "options": ["Madrid", "Paris", "Berlin", "Rome"],
+      "question": "Minister of Earth Sciences",
+      "options": ["Kiran Rejiju", "MS Swamy", "Berlin", "Rome"],
       "correctAnswer": "Paris"
     },
     {
