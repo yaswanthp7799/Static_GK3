@@ -1,15 +1,49 @@
-
-
-[
+{
+  "Cabinet Ministers": [
     {
-      "question": "Minister of Earth Sciences",
-      "options": ["Kiran Rejiju", "MS Swamy", "Berlin", "Rome"],
-      "correctAnswer": "Paris"
+      "question": "Ministry of Defence",
+      "options": ["Shri Raj Nath Singh", "Smt. Nirmala Sitharaman", "Shri Arjun Munda", "Shri Nitin Jairam Gadkari"],
+      "correctAnswer": "Shri Raj Nath Singh"
     },
     {
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-      "correctAnswer": "Mars"
+      "question": "Ministry of Home Affairs",
+      "options": ["Shri Amit Shah", "Smt. Nirmala Sitharaman", "Shri Arjun Munda", "Shri Nitin Jairam Gadkari"],
+      "correctAnswer": "Shri Amit Shah"
+    },
+    {
+      "question": "Ministry of Cooperation",
+      "options": ["Shri Amit Shah", "Shri Raj Nath Singh", "Shri Arjun Munda", "Shri Nitin Jairam Gadkari"],
+      "correctAnswer": "Shri Amit Shah"
+    },
+    {
+      "question": "Ministry of Road Transport and Highways",
+      "options": ["Shri Amit Shah", "Shri Piyush Goyal", "Shri Arjun Munda", "Shri Nitin Jairam Gadkari"],
+      "correctAnswer": "Shri Nitin Jairam Gadkari"
+    },
+    {
+      "question": "Ministry of Agriculture & Farmers Welfare",
+      "options": ["Shri Pralhad Joshi", "Shri Raj Nath Singh", "Shri Arjun Munda", "Shri Narendra Singh Tomar"],
+      "correctAnswer": "Shri Narendra Singh Tomar"
+    },
+    {
+      "question": "Smt. Nirmala Sitharaman",
+      "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Corporate Affairs", "Both Finance & Corporate Affairs"],
+      "correctAnswer": "Both Finance & Corporate Affairs"
     }
+    
+  ],
+  "Geography": [
+    {
+      "question": "Question 1 for Geography",
+      "options": ["Option 1", "Option 2", "Option 3"],
+      "correctAnswer": "Option 1"
+    },
+    {
+      "question": "Question 2 for Geography",
+      "options": ["Option 1", "Option 2", "Option 3"],
+      "correctAnswer": "Option 2"
+    }
+   
   ]
   
+}

@@ -1,0 +1,36 @@
+/* Sample CSS */
+.analysis-container {
+    /* Add styles for the analysis container */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  
+  .question-analysis {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .correct {
+    background-color: #d4edda;
+    color: #333;
+    /* Add more styles for correct answers */
+  }
+  
+  .incorrect {
+    background-color: #f8d7da;
+    color: #333;
+    /* Add more styles for incorrect answers */
+  }
+  
+  .user-answer {
+    font-weight: bold;
+  }
+  
+  .correct-answer {
+    color: green;
+  }
+  
